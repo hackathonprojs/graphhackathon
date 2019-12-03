@@ -1,0 +1,18 @@
+
+
+thegraph.com/docs
+
+browse and create subgraph
+
+thegraph.com/explorer
+
+- there is an access token on the web page.  
+- you need to copy that
+
+
+assemblyscript
+
+
+curated list of open source funding
+https://github.com/sustainers/awesome-oss-funding
+
